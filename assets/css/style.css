@@ -122,7 +122,7 @@ img {
   z-index: 100;
 }
 
-/* nav and stickly class at the same time */
+/* nav and sticky class at the same time */
 .nav.sticky {
   position: fixed;
   background-color: rgba(255, 255, 255, 0.95);
@@ -521,7 +521,7 @@ h4 {
   margin-bottom: 4rem;
 }
 
-/* SIGNUP */
+/* SIGN-UP */
 .section--sign-up {
   background-color: #37383d;
   border-top: none;
